@@ -8,13 +8,19 @@ Eu sou o Alexandre, atualmente sou estudante de Tecnologia em Análise e Desenvo
 Estou em processo de transição de carreira, e estou sempre disposto a aprender mais.
 
 ## 🥇Desafios de código do curso: GFT Start #6 - Lógica de Programação.
+- Desafio Classificador de nível de Herói
 
-[![Desafio 1](https://img.shields.io/badge/-Desafio%201-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/1-Desafio)
+   [![Desafio 1](https://img.shields.io/badge/-Desafio%201-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/1-Desafio/index.js)
 [![Descrição Desafio 1](https://img.shields.io/badge/-Descrição-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/1-Desafio/Descricao.md)&nbsp;
+- Calculadora de partidas Rankeadas
 
-[![Desafio 2](https://img.shields.io/badge/-Desafio%202-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/2-Desafio)
+  [![Desafio 2](https://img.shields.io/badge/-Desafio%202-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/2-Desafio/index.js)
 [![Descrição Desafio 2](https://img.shields.io/badge/-Descrição-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/2-Desafio/Descricao.md)&nbsp;
 
+- Escrevendo as classes de um Jogo
+
+  [![Desafio 3](https://img.shields.io/badge/-Desafio%203-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/3-Desafio/index.js)
+[![Descrição Desafio 2](https://img.shields.io/badge/-Descrição-000)](https://github.com/alexandrefnas/desafio-felipao/tree/main/3-Desafio/Descricao.md)&nbsp;
 
 ##
 ###  Você pode me encontrar em:
